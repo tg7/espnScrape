@@ -1,0 +1,32 @@
+{
+  "name": "espnscrape",
+  "version": "1.0.0",
+  "description": "creating a scraper to pull news articles from ESPN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tg7/espnScrape.git"
+  },
+  "keywords": [
+    "scrape",
+    "cheerio",
+    "mongoose"
+  ],
+  "author": "Todd Germaine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tg7/espnScrape/issues"
+  },
+  "homepage": "https://github.com/tg7/espnScrape#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.6.0",
+    "request": "^2.74.0"
+  }
+}
