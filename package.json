@@ -2,7 +2,7 @@
   "name": "espnscrape",
   "version": "1.0.0",
   "description": "creating a scraper to pull news articles from ESPN",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +27,7 @@
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
     "mongoose": "^4.6.0",
+    "morgan": "^1.7.0",
     "request": "^2.74.0"
   }
 }
