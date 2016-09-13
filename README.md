@@ -1,2 +1,2 @@
 # espnScrape
-created scraper that pulls news articles from ESPN
+created scraper that pulls news articles and more from ESPN
